@@ -4,6 +4,8 @@ In this project we are going to be accessing the GitHub API and building a socia
 
 ## Need to know
 
+INITIAL COMMIT
+
 * Adding dependencies to a project:
   * Via script element
   * Using npm
